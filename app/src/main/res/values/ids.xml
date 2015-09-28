@@ -1,0 +1,6 @@
+<!--
+  ~ Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
+  -->
+<resources>
+    <item name="containerView" type="id"/>
+</resources>

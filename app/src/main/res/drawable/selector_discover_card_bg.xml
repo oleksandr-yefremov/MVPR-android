@@ -1,0 +1,9 @@
+<!--
+  ~ Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
+  -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color when the row is selected -->
+    <item android:drawable="@android:color/darker_gray" android:state_pressed="true" />
+    <!-- Standard background color -->
+    <item android:drawable="@android:color/white"/>
+</selector>
