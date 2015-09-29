@@ -1,4 +1,4 @@
-package io.github.oleksandr_yefremov.viperandroid.router;
+package io.github.oleksandr_yefremov.mvpr_android.router;
 
 import android.app.FragmentManager;
 import android.support.annotation.IdRes;

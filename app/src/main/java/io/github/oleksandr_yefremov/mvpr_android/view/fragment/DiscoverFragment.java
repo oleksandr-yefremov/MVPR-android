@@ -1,7 +1,7 @@
 /*
  * Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
-package io.github.oleksandr_yefremov.viperandroid.view.fragment;
+package io.github.oleksandr_yefremov.mvpr_android.view.fragment;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -12,12 +12,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import io.github.oleksandr_yefremov.viperandroid.R;
-import io.github.oleksandr_yefremov.viperandroid.presenter.DiscoverPresenter;
-import io.github.oleksandr_yefremov.viperandroid.view.BaseFragment;
-import io.github.oleksandr_yefremov.viperandroid.view.recyclerview.RecyclerItemClickListener;
-import io.github.oleksandr_yefremov.viperandroid.view.recyclerview.RecyclerItemClickListener.OnItemClickListener;
-import io.github.oleksandr_yefremov.viperandroid.view.viewholder.DiscoverCardAdapter;
+import io.github.oleksandr_yefremov.mvpr_android.R;
+import io.github.oleksandr_yefremov.mvpr_android.presenter.DiscoverPresenter;
+import io.github.oleksandr_yefremov.mvpr_android.view.BaseFragment;
+import io.github.oleksandr_yefremov.mvpr_android.view.recyclerview.RecyclerItemClickListener;
+import io.github.oleksandr_yefremov.mvpr_android.view.recyclerview.RecyclerItemClickListener.OnItemClickListener;
+import io.github.oleksandr_yefremov.mvpr_android.view.viewholder.DiscoverCardAdapter;
 import nucleus.factory.RequiresPresenter;
 
 /**
@@ -88,10 +88,4 @@ public class DiscoverFragment extends BaseFragment<DiscoverPresenter> {
 	}
 
 	//	public void onItems(List<DiscoverItems>)
-	//	@Override
-//	protected void onAttachedToWindow() {
-//		super.onAttachedToWindow();
-//
-//		LayoutInflater.from(getContext()).inflate(R.layout.view_tracklist, this);
-//	}
 }

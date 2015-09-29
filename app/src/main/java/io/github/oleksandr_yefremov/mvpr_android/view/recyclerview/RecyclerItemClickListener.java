@@ -1,7 +1,7 @@
 /*
  * Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
-package io.github.oleksandr_yefremov.viperandroid.view.recyclerview;
+package io.github.oleksandr_yefremov.mvpr_android.view.recyclerview;
 
 import android.content.Context;
 import android.support.annotation.Nullable;

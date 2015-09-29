@@ -1,4 +1,4 @@
-package io.github.oleksandr_yefremov.viperandroid;
+package io.github.oleksandr_yefremov.mvpr_android;
 
 import org.junit.Test;
 

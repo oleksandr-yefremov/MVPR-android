@@ -2,7 +2,7 @@
  * Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
 
-package io.github.oleksandr_yefremov.viperandroid.view;
+package io.github.oleksandr_yefremov.mvpr_android.view;
 
 import android.app.Activity;
 import android.content.Context;

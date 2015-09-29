@@ -2,11 +2,11 @@
  * Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
 
-package io.github.oleksandr_yefremov.viperandroid.presenter;
+package io.github.oleksandr_yefremov.mvpr_android.presenter;
 
 import android.util.Log;
 
-import io.github.oleksandr_yefremov.viperandroid.view.fragment.DiscoverFragment;
+import io.github.oleksandr_yefremov.mvpr_android.view.fragment.DiscoverFragment;
 import nucleus.presenter.RxPresenter;
 
 /**

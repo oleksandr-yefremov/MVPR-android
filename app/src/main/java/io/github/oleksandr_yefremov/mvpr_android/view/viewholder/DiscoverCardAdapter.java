@@ -2,7 +2,7 @@
  * Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
 
-package io.github.oleksandr_yefremov.viperandroid.view.viewholder;
+package io.github.oleksandr_yefremov.mvpr_android.view.viewholder;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -14,8 +14,8 @@ import android.widget.TextView;
 import java.util.Arrays;
 import java.util.List;
 
-import io.github.oleksandr_yefremov.viperandroid.R;
-import io.github.oleksandr_yefremov.viperandroid.view.viewholder.DiscoverCardAdapter.DiscoverViewHolder;
+import io.github.oleksandr_yefremov.mvpr_android.R;
+import io.github.oleksandr_yefremov.mvpr_android.view.viewholder.DiscoverCardAdapter.DiscoverViewHolder;
 
 /**
  *

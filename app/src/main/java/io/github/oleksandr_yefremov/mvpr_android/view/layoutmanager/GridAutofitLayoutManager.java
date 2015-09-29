@@ -4,7 +4,7 @@
  * by Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
 
-package io.github.oleksandr_yefremov.viperandroid.view.layoutmanager;
+package io.github.oleksandr_yefremov.mvpr_android.view.layoutmanager;
 
 import android.content.Context;
 import android.support.v7.widget.GridLayoutManager;

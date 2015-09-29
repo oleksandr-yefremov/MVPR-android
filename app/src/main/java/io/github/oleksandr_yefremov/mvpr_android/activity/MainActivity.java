@@ -1,16 +1,16 @@
 /*
  * Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
-package io.github.oleksandr_yefremov.viperandroid.activity;
+package io.github.oleksandr_yefremov.mvpr_android.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.ViewGroup.LayoutParams;
 
-import io.github.oleksandr_yefremov.viperandroid.R;
-import io.github.oleksandr_yefremov.viperandroid.application.ViperApp;
-import io.github.oleksandr_yefremov.viperandroid.router.RouterInterface.DiscoverRouterInterface;
-import io.github.oleksandr_yefremov.viperandroid.view.ActionBarLayout;
+import io.github.oleksandr_yefremov.mvpr_android.R;
+import io.github.oleksandr_yefremov.mvpr_android.application.ViperApp;
+import io.github.oleksandr_yefremov.mvpr_android.router.RouterInterface.DiscoverRouterInterface;
+import io.github.oleksandr_yefremov.mvpr_android.view.ActionBarLayout;
 
 /**
  * Single activity that is used throughout the app. All screens are defined as Fragments and Views.

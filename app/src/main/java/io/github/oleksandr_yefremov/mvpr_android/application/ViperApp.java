@@ -2,12 +2,12 @@
  * Copyright (c) Oleksandr Yefremov (yefremov.oleksandr@gmail.com)
  */
 
-package io.github.oleksandr_yefremov.viperandroid.application;
+package io.github.oleksandr_yefremov.mvpr_android.application;
 
 import android.app.Application;
 
-import io.github.oleksandr_yefremov.viperandroid.router.Router;
-import io.github.oleksandr_yefremov.viperandroid.router.RouterInterface.DiscoverRouterInterface;
+import io.github.oleksandr_yefremov.mvpr_android.router.Router;
+import io.github.oleksandr_yefremov.mvpr_android.router.RouterInterface.DiscoverRouterInterface;
 
 /**
  *

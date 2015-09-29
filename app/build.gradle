@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "io.github.oleksandr_yefremov.viperandroid"
+        applicationId "io.github.oleksandr_yefremov.mvpr_android"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
